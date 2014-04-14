@@ -1,0 +1,19 @@
+/* =Flex extended
+-------------------------------------------------------------- */
+
+.flex-caption {
+  background: url(images/caption.png);
+}
+
+.flex-caption h3, .flex-caption p {
+  color: #000;
+}
+
+.flex-caption h3 {
+  margin-top: 90px;
+}
+
+.flex-content {
+  margin-top: 40px;
+  line-height: 250%;
+}

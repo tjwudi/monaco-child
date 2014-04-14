@@ -1,0 +1,5 @@
+/* =Content area
+-------------------------------------------------------------- */
+#dashboard_primary, #footer-thankyou {
+  display: none;
+}
